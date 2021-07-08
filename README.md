@@ -15,4 +15,5 @@ We adopt a dense connection architecture that consists of four dense blocks comp
 convolutional layers. We incorporated the channel and spatial wise attention module 
 (CASM) to the dense blocks to guide the network to concentrate on the informative parts. To address 
 multiple degradations, we stretch the blur kernels in space and input them to the network as a priori.
-！[image](https://github.com/YangC-1/PASRnet/blob/master/pics/architecture_SRPA-Net.png)
+![architecture_SRPA-Net](https://user-images.githubusercontent.com/68590273/124863666-1a35b200-dfea-11eb-9562-82e207a4c5a1.png)
+
